@@ -1,4 +1,4 @@
-		![Texte de remplacement si l’image ne se charge pas](https://www.synergeek.fr/wp-content/uploads/2016/01/veille-technologique-660x330.jpg)
+![Texte de remplacement si l’image ne se charge pas](https://www.synergeek.fr/wp-content/uploads/2016/01/veille-technologique-660x330.jpg)
    ## Qu'est ce que c'est ?
 
 La veille technologique est une méthode qui permet de suivre les dernieres sorties technologiques
