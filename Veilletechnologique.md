@@ -13,5 +13,5 @@ tech sur les réseaux majeurs (Twitter par exemple).
 
    ## A quoi ca sert ?
 Cette pratique permet de pouvoir repérer a l'avance les futurs technologies qui pourrait être utile  
-au veilleur, cela lui permettra de ce fixer sur un produit et de mettre de l'argent de côté afin de l'acquérir.  
+au veilleur, cela lui permettra de ce fixer sur un produit, de suivre son avancé et éventuellement de mettre de l'argent de côté afin de l'acquérir.  
 
