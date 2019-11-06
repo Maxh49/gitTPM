@@ -29,8 +29,20 @@ Visual studio supporte plusieurs langages tels que :
 - Python via add-on  
 - Q# via add-on  
   
+#### Principales Fonctions  
 
-### Dernière Mise à Jour  
+- Une bibliothèque massive d'extensions en croissance constante  
+- IntelliSense  
+- Tableau de bord personnalisable et fenêtres ancrables  
+- Flux de travail simple et hiérarchie de fichiers  
+- Informations pour surveiller les performances en temps réel
+- Outils d'automatisation
+- Refactoring facile et insertion d'extraits de code
+- Support d'écran divisé
+- Liste d'erreurs permettant le débogage lors de la construction du code
+- Vérifications d'approbation lors du déploiement d'applications via ClickOnce, Windows Installer ou l'Assistant de publication
+
+#### Dernière Mise à Jour  
 Disponible depuis le 2 avril 2019 sur Windows et macOS  
   
 Le numéro de version interne de Visual Studio 2019 est 16.  
@@ -40,5 +52,7 @@ Le numéro de version interne de Visual Studio 2019 est 16.
 - Nettoyage de code grandement amélioré
 - Refonte de la fenêtre de démarrage
 - Live Share
+
+###
 
 
