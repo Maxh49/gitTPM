@@ -1,4 +1,4 @@
-#Veille technologique
+# Veille technologique
 
 La veille technologique est une méthode qui permet de suivre les dernieres sorties technologiques
 et leurs date de disposition de mise en vente.  
