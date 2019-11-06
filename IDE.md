@@ -58,7 +58,7 @@ Le numéro de version interne de Visual Studio 2019 est 16.
 
 ### Net Beans  
   
-Netbeans est un IDE libre et open source. Idéal pour éditer des projets existants ou repartir de zéro, NetBeans propose une interface de glisser-déposer simple, livrée avec une multitude de modèles de projets pratiques. Il est principalement utilisé pour développer des applications Java, mais vous pouvez télécharger des bundles prenant en charge d'autres langages.
+Netbeans est un IDE gratuite et open source. Idéal pour éditer des projets existants ou repartir de zéro, NetBeans propose une interface de glisser-déposer simple, livrée avec une multitude de modèles de projets pratiques. Il est principalement utilisé pour développer des applications Java, mais vous pouvez télécharger des bundles prenant en charge d'autres langages.
   
 Il support des langages tels que :
   
@@ -81,6 +81,35 @@ Il support des langages tels que :
 - Prise en charge de Qt Toolkit  
 - Prend en charge les fichiers Fortan et Assembler
 - Prend en charge un certain nombre de compilateurs, notamment CLang / LLVM, Cygwin, GNU, MinGW et Oracle Solaris Studio  
+
+### PyCharm  
+  
+PyCharm est développé par les gens de Jet Brains et fournit aux utilisateurs un essai gratuit de 30 jours pour l'édition professionnelle de Community Edition, entre 213 et 690 $ pour un abonnement annuel. Une assistance et une analyse complètes du code font de PyCharm le meilleur IDE pour les programmeurs Python de tous les niveaux. PyCharm prend également en charge d'autres langages et fonctionne sur plusieurs plates-formes, de sorte que pratiquement n'importe qui peut l'utiliser.  
+  
+langages supportés :  
+- AngularjS  
+- Coffee Script
+- CSS  
+- Cython  
+- HTML  
+- javaScript  
+- Node.js  
+- TypeScript  
+- Et des langages de démonstration  
+  
+#### Principales Fonctions  
+  
+- Compatible avec Windows, Linux et Mac OS  
+- Livré avec l'IDE Djando  
+- facile à utiliser avec Git, Mercurial et SVN  
+- Interface customisable avec l'émulation VIM  
+- Débuggeurs JavaScript, Python et Django  
+- Supporte Google App Engine  
+
+#### Retours utilisateurs :  
+  
+Les utilisateurs se plaignent du fait que PyCharm présente certains bogues, tels que la fonctionnalité de saisie semi-automatique qui ne fonctionne pas parfois, ce qui peut être un inconvénient mineur.
+
 
 
 
