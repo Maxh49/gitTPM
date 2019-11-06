@@ -11,6 +11,6 @@ librairies ou du contenu multimédia (image,son,vidéo,liens...) et d'autres fon
 ## Histoire des IDE
   
 Le premier langage créé et distribué avec un IDE est le Dartmouth BASIC (appellé communaiment BASIC),
-il apprait en 1694.
+il apprait en 1694. Son IDE était basé sur des commandes saisies « en ligne » : Pour de tels langages, les EDI consistaient en une interface graphique sommaire, assortie à un système de construction (compilation et édition de liens)
 
 
