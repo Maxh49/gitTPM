@@ -15,3 +15,10 @@ tech sur les réseaux majeurs (Twitter par exemple).
 Cette pratique permet de pouvoir repérer a l'avance les futurs technologies qui pourrait être utile  
 au veilleur, cela lui permettra de ce fixer sur un produit, de suivre son avancé et éventuellement de mettre de l'argent de côté afin de l'acquérir.  
 
+   ## Avantages
+Les avantages de cette pratique est quelle permet de rester a jour sur les technologies innovantes qui arriveront bientôt sur le marché.
+En extension, cela permet d'acquérir les nouvelles technologies pour éviter de tomber dans l'oboléité.
+
+   ##Inconvénients
+Le principal incovénient de cette pratique est le temps a investir dans la documentation (repérer les annonces, vérifier les sources, communiquer avec des professionels etc...)
+
