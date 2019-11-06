@@ -1,5 +1,7 @@
 # Les différents IDE  
   
+![Erreur de chargement](https://stackify.com/wp-content/uploads/2017/03/50-IDEs_1024x512-793x397.jpg)
+
 ## Qu'est ce qu'un IDE ?  
   
 Un IDE est un logiciel qui comporte plusieurs fonctions et outils.  
@@ -53,6 +55,9 @@ Le numéro de version interne de Visual Studio 2019 est 16.
 - Refonte de la fenêtre de démarrage
 - Live Share
 
-###
+### Net Beans  
+  
+Netbeans est un IDE libre et open source. Idéal pour éditer des projets existants ou repartir de zéro, NetBeans propose une interface de glisser-déposer simple, livrée avec une multitude de modèles de projets pratiques. Il est principalement utilisé pour développer des applications Java, mais vous pouvez télécharger des bundles prenant en charge d'autres langages.
+
 
 
