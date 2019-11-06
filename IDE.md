@@ -21,12 +21,12 @@ De nos jours,Les IDE récents sont conçus pour des interfaces plus évoluées :
 Microsoft Visual Studio est une suite de logiciels de développement pour Windows et mac OS conçue par Microsoft. La dernière version s'appelle Visual Studio 2019.  
 Visual studio supporte plusieurs langages tels que :  
   
--C++  
--C  
--C#  
--F#  
--Visual Basic  
--Python via add-on  
--Q# via add-on
+- C++  
+- C  
+- C#  
+- F#  
+- Visual Basic  
+- Python via add-on  
+- Q# via add-on
 
 
