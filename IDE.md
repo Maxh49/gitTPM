@@ -21,6 +21,7 @@ De nos jours,Les IDE récents sont conçus pour des interfaces plus évoluées :
 ### Visual Studio ###  
   
 Microsoft Visual Studio est une suite de logiciels de développement pour Windows et mac OS conçue par Microsoft. La dernière version s'appelle Visual Studio 2019.  
+Son prix se situe entre 699$ et 2900$ selon l'édition et la licence
 Visual studio supporte plusieurs langages tels que :  
   
 - C++  
@@ -58,6 +59,32 @@ Le numéro de version interne de Visual Studio 2019 est 16.
 ### Net Beans  
   
 Netbeans est un IDE libre et open source. Idéal pour éditer des projets existants ou repartir de zéro, NetBeans propose une interface de glisser-déposer simple, livrée avec une multitude de modèles de projets pratiques. Il est principalement utilisé pour développer des applications Java, mais vous pouvez télécharger des bundles prenant en charge d'autres langages.
+  
+Il support des langages tels que :
+  
+- C  
+- C++  
+- C++ 11  
+- Fortan  
+- HTML5  
+- Java  
+- PHP  
+- Et d'autres ...  
+  
+#### Principales Fonctions  
+  
+- Interface intuitive de glisser-déposer  
+- Bibliothèques dynamiques et statiques  
+- Intégration du débogueur GNU multi-session avec assistance de code  
+- Permet le développement à distance  
+- Compatible avec les plateformes Windows, Linux, OS X et Solaris  
+- Prise en charge de Qt Toolkit  
+- Prend en charge les fichiers Fortan et Assembler
+- Prend en charge un certain nombre de compilateurs, notamment CLang / LLVM, Cygwin, GNU, MinGW et Oracle Solaris Studio  
+
+
+
+
 
 
 
