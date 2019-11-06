@@ -1,4 +1,4 @@
-# Veille technologique   	![Texte de remplacement si l’image ne se charge pas](https://ascii.fr/wp-content/uploads/2015/12/Veille-Technologique-2-1038x575.jpg)
+# Veille technologique   	
    ## Qu'est ce que c'est ?
 
 La veille technologique est une méthode qui permet de suivre les dernieres sorties technologiques
