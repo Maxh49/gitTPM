@@ -14,6 +14,19 @@ Le premier langage créé et distribué avec un IDE est le Dartmouth BASIC (appe
 il apprait en 1694. Son IDE était basé sur des commandes saisies « en ligne » : Pour de tels langages, les EDI consistaient en une interface graphique sommaire, assortie à un système de construction (compilation et édition de liens).  
 De nos jours,Les IDE récents sont conçus pour des interfaces plus évoluées : menus, boutons, utilisation combinée clavier/souris, etc. Ils masquent et contrôlent les commandes techniques sous-jacentes depuis des IHM graphiques, évitant ainsi aux programmeurs débutants d'être confrontés à la rugueuse et exigeante syntaxe du makefile.  
 
+## Les principaux IDE
 
+### Visual Studio ###  
+  
+Microsoft Visual Studio est une suite de logiciels de développement pour Windows et mac OS conçue par Microsoft. La dernière version s'appelle Visual Studio 2019.  
+Visual studio supporte plusieurs langages tels que :  
+  
+-C++  
+-C  
+-C#  
+-F#  
+-Visual Basic  
+-Python via add-on  
+-Q# via add-on
 
 
