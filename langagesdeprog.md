@@ -1,4 +1,4 @@
-![Texte de remplacement si l’image ne se charge pas](http://www.concair.alsace/wp-content/uploads/2019/04/Header-prog.jpg)
+![Texte de remplacement si l’image ne se charge pas](https://www.geekarts.fr/wp-content/uploads/2016/11/ProgrammingLanguage1-1-1024x591.jpg)
 
 # Les différents langages de programmation  
 
@@ -87,14 +87,54 @@ Ce langage est populaire principalement parce qu’il est la base de la plupart 
 
 ## Bash/Shell/PowerShell 36.6%  
 
+Les  shells  ne  sont  pas  seulement  des  interpréteurs de  commandes  mais  également  de  véritables langages de programmation. Un shell comme bash intègre : -  les  notions  de variable,  d’opérateur  arithmétique,  de structure de contrôle, de fonction, présentes dans tout langage de programmation classique, mais aussi - des opérateurs spécifiques.  
+
+Les langages de commandes réalisent l'interface entre le système   et l'utilisateur.Ce sont tous des langages interprétés permettant de transmettre des   commandes avec une (plus ou moins) grande souplesse :- usage de métacaractères ;- contrôle de l'environnement ;- présence de nombreuses commandes prédéfinies ;- possibilité d'écrire des commandes complexes ;- possibilité d'écrire des fichiers de commandes (script-shell) .  
+
+La plupart des problèmes courants de gestion du travail peuvent être   résolus par des commandes Shell.  
+
 ## C# 31.0%  
+
+Le C# prononcé “C sharp” est un langage de programmation orienté objet. Il est commercialisé par la société américaine Microsoft depuis 2002 et sert à développer sur la plateforme .NET (prononcé “dot net”). Comme son nom l’indique, ce langage de programmation est directement dérivé du langage C++. Par ailleurs, il est très proche du langage Java, il reprends notamment les principaux concepts ainsi que la syntaxe en y ajoutant certaines notions (surchages des opérateurs, délégués, indexeurs…). Si le langage utilisé seul reste assez limité, l’utilisation de celui-ci complété par le Framework .NET offre de nombreuses possibilités (création et ouverture de fenêtres, accès réseau, utilisation des bases de données).
+
+Ce langage peut aussi être utilisé pour créer des applications web en utilisant la plateforme ASP.NET. C# est actuellement une compétence très appréciée en entreprise et se présente de plus en plus comme un concurrent du langage Java. 
 
 ## PHP 26.4%  
 
+Bien que premièrement créé pour le développement Web, le PHP peut servir d’outil multifonction pour la programmation générique. Il nécessite obligatoirement un serveur Web (comme Apache ou GWS) et sert surtout à générer du code HTML/CSS au niveau du serveur puis le transmet au navigateur Internet qui pourra l’interpréter.
+
 ## C++ 23.5%  
+
+Le C++ est le langage de programmation le plus utilisé par les développeurs, notamment en ce qui concerne les applications. Il permet d'aborder le développement sous plusieurs paradigmes : programmation générique, procédurale et orientée objet. C'est un langage complié, ce qui signifie que le code source est traduit en code objet, ou binaire pour que la machine puisse l'exécuter.  
+
+Le C++ n'est pas très récent : il a été développé dans les années 1980 pour apporter plus de fonctionnalités au langage C, développé dans les années 1970. La compatibilité entre les deux langages est de plus en plus limitée. Toutefois, le principal inconvénient du C++ réside dans son haut degré d'abstraction. À la différence des langages comme Python ou Ruby, qui sont relativement plus accessibles au grand public, le C++ est considéré comme un langage de bas niveau, plus proche du fonctionnement de la machine, et donc moins compréhensible et intuitif pour l'humain.
+
+En revanche, le C++ offre des avantages pour ses utilisateurs :
+
+- plus de performances dans le programme créé, il fait partie des langages les plus puissants et les plus rapides. Cela explique son succès dans le secteur concurrentiel des applications pour smartphone
+- très populaire, il est abondamment commenté et enseigné sur le web, à travers les forums spécialisés et les plateformes de formation en ligne. Bien que ce ne soit pas le langage le plus simple, il reste, de ce fait, accessible à des débutants en auto-formation
+- portable d'un système d'exploitation à l'autre, il n'a pas besoin d'être retravaillé pour passer de Windows à Linux ou Mac OS
+- bien fourni en bibliothèques, puisque la bibliothèque standard du C++ comprend la plupart des éléments de la bibliothèque standard du C et de la Standard template Library (STL). Ce point lui assure une diversité de fonctionnalités très intéressante. 
+
+Bien que les langages Java et C# soient aujourd’hui les plus complets, le C++ reste très utilisé pour
+
+- la plupart des applications graphiques : création de programmes en 3D, par exemple
+- du traitement de texte
+- les jeux vidéos 
+- la mise en place d'outils financiers
+- la création de certains programmes militaires 
+
 
 ## TypeScript 21.2%  
 
+TypeScript est un langage de programmation libre et open source développé par Microsoft qui a pour but d'améliorer et de sécuriser la production de code JavaScript. C'est un sur-ensemble de JavaScript (c'est-à-dire que tout code JavaScript correct peut être utilisé avec TypeScript). Le code TypeScript est transcompilé en JavaScript, et peut ainsi être interprété par n'importe quel navigateur web ou moteur JavaScript. TypeScript a été cocréé par Anders Hejlsberg, principal inventeur de C#
+
 ## C 20.6%  
 
-## Ruby 8.4%
+C est un langage de programmation impératif généraliste, de bas niveau. Inventé au début des années 1970 pour réécrire UNIX, C est devenu un des langages les plus utilisés, encore de nos jours. De nombreux langages plus modernes comme C++, C#, Java et PHP ou Javascript ont repris une syntaxe similaire au C et reprennent en partie sa logique. C offre au développeur une marge de contrôle importante sur la machine (notamment sur la gestion de la mémoire) et est de ce fait utilisé pour réaliser les « fondations » (compilateurs, interpréteurs…) de ces langages plus modernes.  
+
+## Ruby 8.4%  
+
+Très similaire au Python auquel il est souvent comparé, Ruby est un langage dit de haut niveau, écrit en langage C/C++, multiplateforme et fortement orienté objet, dont la première version est apparue en 1995. Introduit avec la volonté de concevoir un langage inspiré de Perl, Eiffel, ou encore Ada.  
+
+Massivement utilisé dans le développement Web pour sa facilité et sa puissance, le Ruby sera utilisé principalement avec Ruby on Rails, ainsi que dans les jeux et applications mobiles. Il nécessite d’être installé sur le serveur ou la machine pour être interprété.
