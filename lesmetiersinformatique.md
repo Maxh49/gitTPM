@@ -31,3 +31,41 @@ Avec un salaire moyen de 3000€ brut par mois, l'éxpert/e en sécurité inform
 
 
 - **Formateur/trice en informatique** :
+
+Avec un salaire moyen de 1675€ brut par mois, le/la formateur/trice en informatique forme les employés d'une entreprise à un nouveau logiciel ou à de nouvelles fonctionnalités mais aussi des ingénieurs qui doivent maîtriser des outils plus complexes. Excellent pédagogue, le formateur sait animer un groupe, transmettre des connaissances et s'adapter à des publics différents.
+
+
+- **Reponsable micro-informatique**
+
+Avec un salaire moyen de 2500€ brut par mois, le gestionnaire de parc micro-informatique est chargé d'organiser, d'installer, de remplacer et de transformer l'ensemble du parc informatique d'une entreprise.
+
+
+- **Informaticien/ne industriel/le**
+
+Dans l'industrie, l'informatique est omniprésente et permet de piloter robots et automates. De la conception des produits à leur livraison, en passant par leur fabrication, et avec un salaire moyen de 1521€ brut par mois les informaticiens industriels (techniciens et ingénieurs) se révèlent indispensables.
+
+
+- **Ingénieur/e technico-commercial/e en informatique**
+
+Avec un salaire moyen de 2500€ brut par mois, l'ingénieur/e technico-commercial en informatique est le champion de la solution informatique sur mesure pour les entreprises et les administrations. Son rôle : accompagner un projet, de sa négociation commerciale à sa réalisation technique.
+
+
+- **Ingenieur/e système**
+
+Avec un salaire moyen de 2400€ brut par mois, le rôle de l'ingénieur/e système est d'analyser, fiabiliser et optimiser l'outil informatique de son entreprise afin que l'ensemble des utilisateurs dispose d'une installation adaptée et performante. C'est un expert du matériel et des logiciels.
+
+
+- **Ingénieur/e télécoms et réseaux**
+
+Avec un salaire moyen de 2800€ brut par mois, l'ingénieur/e télécoms et réseaux participe à l'optimisation des systèmes de communication, de la recherche à la conception d'équipements et de services en passant par la gestion d'infrastructures réseaux.
+
+
+- **Technicien/ne de maintenance en informatique**
+
+Avec un salaire moyen de 1900€ brut par mois, le/la technicien/ne de maintenance en informatique veille au bon fonctionnement des matériels comme des logiciels des entreprises faisant appels à ces services.
+
+
+- **Testeur/testeuse**
+
+Avec un salaire moyen de 1700€ brut par mois, le/la testeur/euse est le/la spécialiste de la chasse aux bugs, ces erreurs qui empêchent le bon fonctionnement d'un logiciel. À lui de les signaler au service développement.
+
