@@ -27,6 +27,18 @@ Visual studio supporte plusieurs langages tels que :
 - F#  
 - Visual Basic  
 - Python via add-on  
-- Q# via add-on
+- Q# via add-on  
+  
+
+### Dernière Mise à Jour  
+Disponible depuis le 2 avril 2019 sur Windows et macOS  
+  
+Le numéro de version interne de Visual Studio 2019 est 16.  
+
+- Recherches améliorées (anciennement lancement rapide)
+- Amélioration de Visual Studio IntelliCode
+- Nettoyage de code grandement amélioré
+- Refonte de la fenêtre de démarrage
+- Live Share
 
 
