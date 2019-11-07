@@ -4,7 +4,7 @@
 
 ## Introduction  
 
-Nous allons voir les langages les plus populaires du moment selon l’enquête StackOverflow 2019 (exprimé en pourcentage), ainsi que leur principale utilisations.  
+Nous allons voir les langages les plus populaires du moment selon l’enquête StackOverflow 2019 (exprimé en pourcentage), ainsi que leur principale utilisations.  Puis nous verrons différents Frameworks.
 
 ## JavaScript 67.8%  
 
@@ -137,4 +137,88 @@ C est un langage de programmation impératif généraliste, de bas niveau. Inven
 
 Très similaire au Python auquel il est souvent comparé, Ruby est un langage dit de haut niveau, écrit en langage C/C++, multiplateforme et fortement orienté objet, dont la première version est apparue en 1995. Introduit avec la volonté de concevoir un langage inspiré de Perl, Eiffel, ou encore Ada.  
 
-Massivement utilisé dans le développement Web pour sa facilité et sa puissance, le Ruby sera utilisé principalement avec Ruby on Rails, ainsi que dans les jeux et applications mobiles. Il nécessite d’être installé sur le serveur ou la machine pour être interprété.
+Massivement utilisé dans le développement Web pour sa facilité et sa puissance, le Ruby sera utilisé principalement avec Ruby on Rails, ainsi que dans les jeux et applications mobiles. Il nécessite d’être installé sur le serveur ou la machine pour être interprété.  
+ 
+![Texte de remplacement si l’image ne se charge pas](https://miro.medium.com/max/600/0*oIDuzxHMyB5fgF0N.png)
+
+  
+## Les différents Frameworks  
+
+### AngularJS
+
+Créé par Google en 2009, AngularJS est un framework JavaScript open-source qui prend en charge l’animation, la manipulation du DOM, le routage, l’injection de dépendance ou encore le data binding.
+
+AngularJS est très populaire et dispose donc d’une communauté active auprès de laquelle vous pourrez facilement trouver de l’aide.  
+  
+### ReactJS
+
+ReactJS est un framework développé par Facebook en 2013 et qui est aujourd’hui utilisé par Instagram, Netflix ou encore Yahoo.
+
+Sa spécialité ? Le développement front-end, c’est-à-dire la création d’interfaces utilisateurs.
+
+ReactJS utilise le langage JSX et intègre la notion de composants faciles à réutiliser entre différents projets.
+
+### VueJS
+
+VueJS est un autre framework JavaScript basé sur l’utilisation de composants.
+
+Si son utilisation est très proche de ReactJS, sa courbe d’apprentissage est toutefois jugée plus simple. Une autre différence est également à noter dans le langage utilisé puisqu’ici il s’agit du JavaScript et non du JSX.
+
+Enfin, VueJS intègre le HTML, le CSS et le JS dans un seul et même fichier.
+
+### Ruby on Rails
+
+Le framework Ruby on Rails est ce qu’on appelle un Model View Controller (MVC) et est idéal si vous débutez dans le développement web. En effet, il est facile à comprendre et à utiliser du fait de sa simplicité syntaxique.
+
+L’une des plus grandes forces de ce framework est sa souplesse : vous pouvez facilement ajouter des fonctionnalités pour faire évoluer votre projet. À noter également que le développement est rapide.
+
+Les fichiers JavaScript et CSS sont quant à eux minifiés, permettant à votre site de se charger plus rapidement.  
+
+Ruby on Rails est utilisé par Twitter, AirB&B ou encore GitHub.  
+
+### Symfony
+
+Symfony est un framework MVC open-source, écrit en PHP et 100% français.
+
+Destiné aux projets plus complexes, voire haut de gamme, il permet de faciliter le développement et offre une bonne flexibilité. Vous pouvez en effet le configurer comme vous le souhaitez et vous pouvez bénéficier de l’aide d’une grande communauté.
+
+Le framework Symfony dispose d’une barre d’outils de débogage complète et facilite les tests : vous n’avez pas besoin d’écrire de script. 
+
+### Django
+
+Connaissez-vous Django ? Ce framework en langage Python – et donc côté serveur – a été créé par des développeurs expérimentés.
+
+Vous pouvez créer toute sorte de sites web, que ce soit des sites d’actualités, des systèmes de gestion de contenu ou encore des réseaux sociaux. Ce framework protège automatiquement votre site grâce à un moyen sécurisé de gérer les comptes utilisateurs et les mots de passe.  
+
+### Laravel
+
+Laravel est un framework PHP composé de plusieurs bibliothèques issues d’autres frameworks. Vous pouvez gérer les systèmes de cache, les envois d’emails, les sessions utilisateurs, la pagination de votre site ou encore créer des requêtes SQL.
+
+Concernant la documentation, celle-ci est très complète et de qualité, ce qui est idéal si vous êtes débutant.  
+
+### ASP.NET
+
+Développé par Microsoft et supporté par Windows, ASP.NET est lié au framework .NET.
+
+Avec ASP.NET vous pouvez développer des sites web complexes et dynamiques, notamment grâce au Model View Controller.
+
+À ce propos, il faut noter qu’il existe ASP.NET WebForms et ASP.NET MVC. Ce dernier est à préconiser car il vous donne un meilleur contrôle sur le HTML ce qui n’est pas négligeable lorsqu’on sait que les sites doivent être responsives.  
+
+### Meteor
+
+Meteor est un framework hautement évolutif basé sur le JavaScript et qui intègre NodeJS et MongoDB.
+
+Rapide à utiliser, vous pouvez gérer à la fois le front-end et le back-end de votre site.
+
+Meteor est idéal pour créer des sites web collaboratifs ou encore des messageries où il est nécessaire d’afficher des données en temps réel.
+
+### Spring
+
+Spring est l’un des plus anciens frameworks Java mais certainement l’un des meilleurs. Il offre de nombreux outils pour développer, configurer et sécuriser des sites web.
+
+Malgré sa complexité, la documentation est très fournie et la communauté très active.
+
+
+### Ionic
+
+Ionic est un framework en partie open-source permettant de construire des applications natives en utilisant les technologies WEB. Par natives on doit comprendre : disponibles via les Stores et pouvant utiliser les fonctionnalités natives des OS. Créé en 2013, et après presque 12 000 commits et 128 releases différentes, il en est à sa version stable "3" avec les toutes premières alpha de la version 4 disponibles depuis quelques jours seulement.
