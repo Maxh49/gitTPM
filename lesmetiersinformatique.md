@@ -77,11 +77,15 @@ Avec un salaire moyen de 3750€ brut par mois, un Scrum Master est un coach, il
 
 - **Tech lead**
 
-Avec un salaire moyen de 3333€ brut par mois, un Tech lead, c’est la personne qui prend le rôle de responsable de la qualité logicielle sur un projet.
-Un bon à les 4 facettes suivantes :
-	1. L'expertise technique
-	2. La capacité à former
-	3. L'aptitude à faciliter, interagir
+Avec un salaire moyen de 3333€ brut par mois, un Tech lead, c’est la personne qui prend le rôle de responsable de la qualité logicielle sur un projet.  
+Un bon à les 4 facettes suivantes :  
+
+	1. L'expertise technique  
+
+	2. La capacité à former  
+
+	3. L'aptitude à faciliter, interagir  
+
 	4. L'aptitude à mener son équipe vers l'excellence
 
 
