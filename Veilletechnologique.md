@@ -8,7 +8,7 @@ et leurs date de disposition de mise en vente.
 
 la veille technologique ce pratique en suivant les dernières informations techs sur les différents
 réseaux sociaux. Pour cela il suffit généralement de suivre des journalistes ou des influenceurs
-tech sur les réseaux majeurs (Twitter par exemple).  
+tech sur les réseaux majeurs (Twitter par exemple) ou d'autres moyens de communication comme des blogs de journaliste spécialisés (numérique ou papier) ou même les conférences constructeurs.    
 
 
    ## A quoi ca sert ?
@@ -22,3 +22,28 @@ En extension, cela permet d'acquérir les nouvelles technologies pour éviter de
    ## Inconvénients
 Le principal incovénient de cette pratique est le temps a investir dans la documentation (repérer les annonces, vérifier les sources, communiquer avec des professionels etc...)
 
+## Quelques référence utiles  
+
+### Magazine spécialisés  
+  
+- Canard PC  
+- Hardware Magazine
+- 01net  
+- Linux Voice  
+- PCUPADTE  
+- L'informaticien  
+  
+### Site spécialisés  
+  
+- Numerama       https://www.numerama.com 
+- Les Numeriques https://www.lesnumeriques.com  
+- FrAndroid      https://www.frandroid.com  
+- Presse-citron  https://www.presse-citron.net  
+- Cowcotland     https://www.cowcotland.com  
+- Tom's Hardware https://www.tomshardware.fr  
+  
+### Site constructeurs  
+  
+- Intel         https://www.intel.com  
+- Nvidia        https://www.nvidia.com  
+- Microsoft     https://www.microsoft.com  
