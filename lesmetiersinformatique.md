@@ -69,3 +69,24 @@ Avec un salaire moyen de 1900€ brut par mois, le/la technicien/ne de maintenan
 
 Avec un salaire moyen de 1700€ brut par mois, le/la testeur/euse est le/la spécialiste de la chasse aux bugs, ces erreurs qui empêchent le bon fonctionnement d'un logiciel. À lui de les signaler au service développement.
 
+
+- **Scrum master**
+
+Avec un salaire moyen de 3750€ brut par mois, un Scrum Master est un coach, il fait appliqué la méthode Scrum (transparence, inspection et adaptation) et fait ressortir le meilleur de ses collègues en conseillant les meilleurs outils et techniques.
+
+
+- **Tech lead**
+
+Avec un salaire moyen de 3333€ brut par mois, un Tech lead, c’est la personne qui prend le rôle de responsable de la qualité logicielle sur un projet.
+Un bon à les 4 facettes suivantes :
+	1. L'expertise technique
+	2. La capacité à former
+	3. L'aptitude à faciliter, interagir
+	4. L'aptitude à mener son équipe vers l'excellence
+
+
+- **Consultant Business Intelligence**
+
+Avec un salaire moyen de 3333€ brut par moi, un Consultant Business Intelligence a pour principale mission de proposer aux décideurs d’une entreprise un outil d’aide à la décision.  
+Son rôle consiste à analyser la situation d’une enseigne ainsi que les difficultés auxquelles font face ses décideurs.  
+Plus que cela, il doit comprendre leurs besoins et tacher d’apporter une solution répondant à leur problématique.
