@@ -33,7 +33,7 @@ Sublime Text intègre la plupart des fonctionnalités de base d'un éditeur de t
 - Personnalisation des raccourcis clavier.
 Le logiciel propose également d'importer des packages (pour ajouter des langages ou bien des fonctionnalités de Sublime-Text). La version 3 du logiciel propose directement d'installer PackageControl pour ajouter certains thèmes etc.
 
-####Liste des languages supportés  
+#### Liste des languages supportés  
 Sublime Text prend en charge un certain nombre de langages de programmation différents et assure la coloration syntaxique pour ActionScript, AppleScript, ASP, C, C++, C#, Clojure, CSS, D, Diff, Dylan, Erlang, Go, Graphviz, Groovy, Haskell, HTML, Java, JSP, JavaScript, JSON, LaTeX, Lisp, Lua, Makefiles, Markdown, MATLAB, Objective-C, OCaml, Perl, PHP, Python, R, Rails, reStructuredText, Ruby, Scala, scripts shell, SQL, Tcl, Textile, XML, XSL, et YAML. De plus, les utilisateurs peuvent télécharger des extensions pour gérer d'autres langages que ceux qui sont inclus par défaut.  
 
 Sublime Text 3.0 a officiellement quitté le statut de bêta le 13 septembre 2017, à l'occasion de la mise à jour build 3143. Cette mise à jour donne droit à une nouvelle icône, une interface retravaillée, au support natif de la Touch Bar Apple ainsi qu'à une multitude d'autres nouvelles fonctionnalités et corrections de bogues.
