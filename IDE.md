@@ -78,8 +78,9 @@ Sublime Text prend en charge un certain nombre de langages de programmation diff
 - Textile
 - XML
 - XSL
-- YAML
- De plus, les utilisateurs peuvent télécharger des extensions pour gérer d'autres langages que ceux qui sont inclus par défaut.  
+- YAML  
+  
+De plus, les utilisateurs peuvent télécharger des extensions pour gérer d'autres langages que ceux qui sont inclus par défaut.  
 
 Sublime Text 3.0 a officiellement quitté le statut de bêta le 13 septembre 2017, à l'occasion de la mise à jour build 3143. Cette mise à jour donne droit à une nouvelle icône, une interface retravaillée, au support natif de la Touch Bar Apple ainsi qu'à une multitude d'autres nouvelles fonctionnalités et corrections de bogues.
   
