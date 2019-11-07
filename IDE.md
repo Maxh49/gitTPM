@@ -37,7 +37,53 @@ Le logiciel propose également d'importer des packages (pour ajouter des langage
 Sublime Text prend en charge un certain nombre de langages de programmation différents et assure la coloration syntaxique pour ActionScript, AppleScript, ASP, C, C++, C#, Clojure, CSS, D, Diff, Dylan, Erlang, Go, Graphviz, Groovy, Haskell, HTML, Java, JSP, JavaScript, JSON, LaTeX, Lisp, Lua, Makefiles, Markdown, MATLAB, Objective-C, OCaml, Perl, PHP, Python, R, Rails, reStructuredText, Ruby, Scala, scripts shell, SQL, Tcl, Textile, XML, XSL, et YAML. De plus, les utilisateurs peuvent télécharger des extensions pour gérer d'autres langages que ceux qui sont inclus par défaut.  
 
 Sublime Text 3.0 a officiellement quitté le statut de bêta le 13 septembre 2017, à l'occasion de la mise à jour build 3143. Cette mise à jour donne droit à une nouvelle icône, une interface retravaillée, au support natif de la Touch Bar Apple ainsi qu'à une multitude d'autres nouvelles fonctionnalités et corrections de bogues.
+  
+### Atom  
+  
+Atom est un éditeur de texte libre pour macOS, GNU/Linux et Windows développé par GitHub. Il supporte des plug-ins écrits en Node.js et implémente Git Control. La plupart des extensions sont sous licence libre et sont maintenues par la communauté. Atom est basé sur Chromium et Electron et est écrit en CoffeeScript. Il est aussi utilisé en tant qu’environnement de développement (EDI).
+  
+Initialement, les extensions et tout ce qui ne faisait pas partie du noyau d'Atom étaient distribués sous licence open-source. Le 6 mai 2014, le reste d'Atom, y compris l'application de base, le gestionnaire de paquets d'Atom et l'application de bureau Atom basée sur Chromium et Electron (anciennement Atom Shell) ont été mis à disposition en tant que logiciel libre avec une licence MIT.  
+  
+#### Langages supportés  
 
+Les paquets inclus dans Atom appliquent la coloration syntaxique sur les langages suivants :
+
+- C
+- C++
+- C#
+- Clojure
+- COBOL
+- CSS
+- CoffeeScript
+- D
+- Markdown
+- Go
+- HTML
+- Java
+- Javascript
+- JSON
+- Julia
+- Less
+- Make
+- Mustache
+- Objective-C
+- Perl
+- PHP
+- Liste de propriétés
+- Python
+- Racket
+- Ruby
+- Ruby on rails
+- Sass
+- Scala
+- script shell
+- SQL
+- TOML
+- TypeScript
+- XML
+- YAML  
+  
+Par défaut, Atom envoie des statistiques d'utilisation à Google Analytics, associées à la somme SHA-1 de l'adresse MAC de la carte réseau de l'utilisateur, afin de déterminer la performance et les fonctions les plus utilisées du logiciel pour mieux cerner son développement. Cette fonction peut être désactivée par l'utilisateur en désactivant le package "metrics".
 
 ## Les principaux IDE spécialisés
 
