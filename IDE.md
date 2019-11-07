@@ -225,7 +225,16 @@ langages supportés :
   
 Les utilisateurs se plaignent du fait que PyCharm présente certains bogues, tels que la fonctionnalité de saisie semi-automatique qui ne fonctionne pas parfois, ce qui peut être un inconvénient mineur.
 
+## Avantages et Inconvénientes entre IDE spécialisé et général  
+  
+Les IDE spécialisés assistent beaucoup plus l'utilisateur en faisant des actions a sa place alors que les IDE généralistes ce contentent généralement de souligner les erreurs.  
+Un IDE généraliste sera dans la plupart des cas moins gourmand qu'un IDE spécialisés car celui-ci ne fait que le strict minimum, il n'est pas fait pour guider les utilisateurs.  
+Les IDE spécialisés sont plus souvent payant que les IDE généralistes.  
+Un IDE généraliste aura plus souvent une commmunauté plus importante qui créera des plugins et aidera ses membres.
 
+### Pour Conclure  
+  
+Si l'utilisateur débute dans un language il est préférable de choisir un IDE spécialisés pour être guidé dans son apprentissage, s'il est plus confirmé un IDE généraliste lui permettra d'avoir de meilleur performance et un meilleur soutien de la communauté.
 
 
 
