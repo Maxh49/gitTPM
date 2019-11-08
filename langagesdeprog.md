@@ -6,11 +6,11 @@
 
 Nous allons voir les langages les plus populaires du moment selon l’enquête StackOverflow 2019 (exprimé en pourcentage), ainsi que leur principale utilisations.  Puis nous verrons différents Frameworks.
 
-## JavaScript 67.8%  
+## JavaScript (interprété) 67.8%  
 
 Aujourd’hui, on peut presque tout faire en JavaScript. Voici un aperçu des multiples possibilités :  
 
-### Applications web
+### Applications web 
 
 En JavaScript pur ou avec des frameworks comme Angular, vous pouvez créer des applications web complexes. et on vous explique ici pourquoi c’est plus avantageux aujourd’hui que de faire des applications dites natives.  
 
@@ -52,23 +52,23 @@ En JavaScript pur ou avec des librairies comme jQuery, vous pouvez animer des pa
 
 En remplacement de Flash et d’ActionScript, le JavaScript permet aujourd’hui de faire des animations autonomes, aidés d’outils comme Adobe Animate.  
 
-## HTML/CSS 63.5%  
+## HTML/CSS 63.5%  (interprété)
 
 Base fondamentale d’un site Web, le HTML est le seul langage compris par les navigateurs Web (Internet Explorer, Firefox, Edge, Chrome, Opéra, Safari…). Il détermine le contenu du site, et fonctionne de concert avec le CSS qui donne la forme du contenu. Langage sémantique (comprendre : qui permet de donner du sens), le HTML peut baliser l’importance de mots ou de phrases sur le site dont les algorithmes de recherche (Google, Yahoo, Bing…) se serviront pour trier la pertinence de la page et l’afficher plus ou moins haut dans une recherche.
 
 Intimement lié au HTML, le CSS permet de donner sa forme finale au contenu d’une page Web. Couleurs, placements et taille sont autant de modifications écrites en CSS appliquées au code source HTML. Pour ces raisons, le CSS est un élément indispensable au développement Web et l’un des langages les plus utilisés.  
 
-## SQL 54.4%  
+## SQL (interprété) 54.4%  
 
 Le SQL est davantage un outil plus qu’un langage. Il représente un ensemble de requêtes qui permettent la gestion de bases de données à petite ou grande échelle. Son immense utilité le rend indispensable dans certains domaines professionnels et par conséquent très recherché.  
 
-## Python 41.7%  
+## Python (interprété) 41.7%  
 
 Python est le langage de programmation le plus utilisé dans le domaine du Machine Learning, du Big Data et de la Data Science.  
 
 le Python brillera surtout par sa facilité et sa rapidité d’apprentissage. Tout-en-un et puissant, il sera utilisé pour la création de scripts et la gestion de vastes quantités d’informations par les grandes entreprises par exemple; le Python trouve également sa place dans les divers domaines du web et autres applications dédiées au mobile.  
 
-## Java 41.1%  
+## Java 41.1%  (compilé)
 
 Le langage Java est un langage de programmation orienté objet. La particularité et l’intérêt de Java réside dans sa portabilité entre les différents systèmes d’exploitations tels que Unix, Windows, ou MacOS. Un programme développé en langage Java, peut ainsi s’exécuter sur toutes les plateformes, grâce à ses frameworks associés visant à garantir cette portabilité.  
 
@@ -93,17 +93,17 @@ Les langages de commandes réalisent l'interface entre le système   et l'utilis
 
 La plupart des problèmes courants de gestion du travail peuvent être   résolus par des commandes Shell.  
 
-## C# 31.0%  
+## C# 31.0%  (compilé)
 
 Le C# prononcé “C sharp” est un langage de programmation orienté objet. Il est commercialisé par la société américaine Microsoft depuis 2002 et sert à développer sur la plateforme .NET (prononcé “dot net”). Comme son nom l’indique, ce langage de programmation est directement dérivé du langage C++. Par ailleurs, il est très proche du langage Java, il reprends notamment les principaux concepts ainsi que la syntaxe en y ajoutant certaines notions (surchages des opérateurs, délégués, indexeurs…). Si le langage utilisé seul reste assez limité, l’utilisation de celui-ci complété par le Framework .NET offre de nombreuses possibilités (création et ouverture de fenêtres, accès réseau, utilisation des bases de données).
 
 Ce langage peut aussi être utilisé pour créer des applications web en utilisant la plateforme ASP.NET. C# est actuellement une compétence très appréciée en entreprise et se présente de plus en plus comme un concurrent du langage Java. 
 
-## PHP 26.4%  
+## PHP (interprété) 26.4%  
 
 Bien que premièrement créé pour le développement Web, le PHP peut servir d’outil multifonction pour la programmation générique. Il nécessite obligatoirement un serveur Web (comme Apache ou GWS) et sert surtout à générer du code HTML/CSS au niveau du serveur puis le transmet au navigateur Internet qui pourra l’interpréter.
 
-## C++ 23.5%  
+## C++ (compilé) 23.5%  
 
 Le C++ est le langage de programmation le plus utilisé par les développeurs, notamment en ce qui concerne les applications. Il permet d'aborder le développement sous plusieurs paradigmes : programmation générique, procédurale et orientée objet. C'est un langage complié, ce qui signifie que le code source est traduit en code objet, ou binaire pour que la machine puisse l'exécuter.  
 
@@ -125,15 +125,15 @@ Bien que les langages Java et C# soient aujourd’hui les plus complets, le C++ 
 - la création de certains programmes militaires 
 
 
-## TypeScript 21.2%  
+## TypeScript (compilé) 21.2%  
 
 TypeScript est un langage de programmation libre et open source développé par Microsoft qui a pour but d'améliorer et de sécuriser la production de code JavaScript. C'est un sur-ensemble de JavaScript (c'est-à-dire que tout code JavaScript correct peut être utilisé avec TypeScript). Le code TypeScript est transcompilé en JavaScript, et peut ainsi être interprété par n'importe quel navigateur web ou moteur JavaScript. TypeScript a été cocréé par Anders Hejlsberg, principal inventeur de C#
 
-## C 20.6%  
+## C (compilé) 20.6%  
 
 C est un langage de programmation impératif généraliste, de bas niveau. Inventé au début des années 1970 pour réécrire UNIX, C est devenu un des langages les plus utilisés, encore de nos jours. De nombreux langages plus modernes comme C++, C#, Java et PHP ou Javascript ont repris une syntaxe similaire au C et reprennent en partie sa logique. C offre au développeur une marge de contrôle importante sur la machine (notamment sur la gestion de la mémoire) et est de ce fait utilisé pour réaliser les « fondations » (compilateurs, interpréteurs…) de ces langages plus modernes.  
 
-## Ruby 8.4%  
+## Ruby (compilé) 8.4%  
 
 Très similaire au Python auquel il est souvent comparé, Ruby est un langage dit de haut niveau, écrit en langage C/C++, multiplateforme et fortement orienté objet, dont la première version est apparue en 1995. Introduit avec la volonté de concevoir un langage inspiré de Perl, Eiffel, ou encore Ada.  
 
