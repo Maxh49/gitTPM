@@ -133,7 +133,7 @@ TypeScript est un langage de programmation libre et open source développé par 
 
 C est un langage de programmation impératif généraliste, de bas niveau. Inventé au début des années 1970 pour réécrire UNIX, C est devenu un des langages les plus utilisés, encore de nos jours. De nombreux langages plus modernes comme C++, C#, Java et PHP ou Javascript ont repris une syntaxe similaire au C et reprennent en partie sa logique. C offre au développeur une marge de contrôle importante sur la machine (notamment sur la gestion de la mémoire) et est de ce fait utilisé pour réaliser les « fondations » (compilateurs, interpréteurs…) de ces langages plus modernes.  
 
-## Ruby (compilé) 8.4%  
+## Ruby (interprété) 8.4%  
 
 Très similaire au Python auquel il est souvent comparé, Ruby est un langage dit de haut niveau, écrit en langage C/C++, multiplateforme et fortement orienté objet, dont la première version est apparue en 1995. Introduit avec la volonté de concevoir un langage inspiré de Perl, Eiffel, ou encore Ada.  
 
